@@ -196,6 +196,5 @@ public class Connexion {
 		}
 		return id;
 	}
-
-
+// Le code est terminé !
 }
